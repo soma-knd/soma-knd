@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+<!--
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=soma-knd)
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=soma-knd&layout=compact)
 
+-->
 
 
 
