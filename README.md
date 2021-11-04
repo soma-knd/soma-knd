@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soma-knd)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=soma-knd)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soma-knd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=soma-knd&layout=compact)
 
 
 
